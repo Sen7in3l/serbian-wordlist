@@ -1,6 +1,5 @@
 # Serbian-wordlist 
 
-Wordlist with Serbian words (Cyrillic and Latin), its made with hashcat rules. Never saw this before so here you go
-If this wordlist still cant do its job, try password generator like https://github.com/Mebus/cupp with cyrillic words ofc
+Wordlist with Serbian words (Cyrillic and Latin), its made with hc rules(I used and changed InsidePro-PasswordsPro rule a bit to make it better). Never saw this before so here you go
 
-
+Tip: Try using password generator like cupp.py, type info about the target and add it to this wordlist, its pretty effective
